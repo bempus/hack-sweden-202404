@@ -11,5 +11,8 @@
     "url": "hacksweden-202404"
   },
   "author": "Jonathan Svahn",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
