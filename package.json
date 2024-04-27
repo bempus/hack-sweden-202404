@@ -1,0 +1,15 @@
+{
+  "name": "hacksweden-2024-04",
+  "version": "1.0.0",
+  "description": "Hack Sweden 2024 Malmö",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "hacksweden-202404"
+  },
+  "author": "Jonathan Svahn",
+  "license": "ISC"
+}
