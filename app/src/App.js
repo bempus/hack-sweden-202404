@@ -113,8 +113,8 @@ function App() {
         <div className="meta">
           <div class="results">
             <span>Results: <strong>{ledamoter.length}</strong></span>
-            <div>Män: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'man').length / ledamoter.length) * 100 || 0).toFixed(2)}%</strong></div>
-            <div>Kvinnor: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'kvinna').length / ledamoter.length)*100 || 0).toFixed(2)}%</strong></div>
+            <div>Men: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'man').length / ledamoter.length) * 100 || 0).toFixed(2)}%</strong></div>
+            <div>Women: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'kvinna').length / ledamoter.length)*100 || 0).toFixed(2)}%</strong></div>
           </div>
           <div>
             <div>Average arvode: <strong>SEK {avgArvode.toLocaleString('sv')}</strong></div>

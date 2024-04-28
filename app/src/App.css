@@ -38,7 +38,8 @@ ul, li {
   }
 
 .info-left {
-  display: flex;
+  display: grid;
+  grid-template-columns: 2fr 1fr 4fr;
   gap: 1rem;
 }
 .info-right {
