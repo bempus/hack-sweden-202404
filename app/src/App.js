@@ -7,7 +7,6 @@ function App() {
   const [ledamoter, setLedamoter] = useState(data)
   const [filteringOn, setFilteringOn] = useState({
     Role: 'None',
-    Gender: 'None',
     Party: 'None'
   })
   const [avgArvode, setAvgArvode] = useState(0)
@@ -32,8 +31,6 @@ function App() {
   useEffect(() => {
     const filtered = data.filter(d => {
       const none = 'None'
-      console.log(filteringOn, d);
-      if (filteringOn.Gender !== none && d.Gender !== filteringOn.Gender) return false
       if (filteringOn.Party !== none && d.Party !== filteringOn.Party) return false
       if (filteringOn.Role !== none && !d.Roles.includes(filteringOn.Role)) return false
       return true
@@ -45,9 +42,6 @@ function App() {
 
   const filterLedamoterByRole = (Role) => {
     setFilteringOn((old) => ({ ...old, Role }))
-  }
-  const filterLedamoterByGender = (Gender) => {
-    setFilteringOn((old) => ({ ...old, Gender }))
   }
   const filterLedamoterByParty = (Party) => {
     setFilteringOn((old) => ({ ...old, Party }))
@@ -70,7 +64,7 @@ function App() {
         <div className="info-left">
 
           <div>{Name}</div>
-          <div className='clickable' onClick={() => filterLedamoterByGender(Gender)}>{Gender}</div>
+          <div>{Gender}</div>
         </div>
         <div className="info-right">
           <div>Party: <span className='clickable' onClick={()=>filterLedamoterByParty(Party)}>{Party}</span></div>
@@ -105,14 +99,6 @@ function App() {
             </select>
           </div>
           <div className='input-container'>
-            <label>Gender</label>
-            <select value={filteringOn.Gender} onChange={(e) => filterLedamoterByGender(e.target.value)}>
-              <option value="None">None</option>
-              <option value="man">Män</option>
-              <option value="kvinna">Kvinnor</option>
-            </select>
-          </div>
-          <div className='input-container'>
             <label>Party</label>
             <select value={filteringOn.Party} onChange={(e) => filterLedamoterByParty(e.target.value)}>
               <option value="None">None</option>
@@ -125,8 +111,10 @@ function App() {
       </div>
       <div className="container">
         <div className="meta">
-          <div class="">
+          <div class="results">
             <span>Results: <strong>{ledamoter.length}</strong></span>
+            <div>Män: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'man').length / ledamoter.length) * 100 || 0).toFixed(2)}%</strong></div>
+            <div>Kvinnor: <strong>{((ledamoter.filter(ledamot => ledamot.Gender === 'kvinna').length / ledamoter.length)*100 || 0).toFixed(2)}%</strong></div>
           </div>
           <div>
             <div>Average arvode: <strong>SEK {avgArvode.toLocaleString('sv')}</strong></div>
