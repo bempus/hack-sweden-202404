@@ -22,4 +22,6 @@ Select-Object -ExpandProperty "data"
         IsGovernmentMember = $Roles.Contains("Riksdagsledamot")
         ISViceOrförande = $Roles -like "*Vice Ordförande*" -and -not $Roles.Contains("Ordförande")
     }
-} | Export-Csv -Path "datasets/ledamoter-$(Get-Date -Format 'yyyy-MM-dd')_filtered.csv"
+} | ConvertTo-Json -Depth 2 | Out-File "datasets/ledamoter-$(Get-Date -Format 'yyyy-MM-dd').json"
+
+#Export-Csv -Path "datasets/ledamoter-$(Get-Date -Format 'yyyy-MM-dd')_filtered.csv"

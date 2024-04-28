@@ -1,0 +1,5315 @@
+[
+  {
+    "Name": "Fredrik Ahlstedt",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Emma Ahlström Köster",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Alireza Akhondi",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anders Alftberg",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Leila Ali Elmi",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Janine Alm Ericson",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ann-Sofie Alm",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sofia Amloh",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Pontus Andersson Garpvall",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Andrea Andersson Tay",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johan Andersson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jonas Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magdalena Andersson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Förste vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Tobias Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lili André",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Alexandra Anstrell",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Clara Aranda",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mats Arkhem",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ludvig Aspling",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Nadja Awad",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gulan Avci",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kristina Axén Olin",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Yusuf Aydin",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sanna Backeskog",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Beckman",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Denis Begic",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mathias Bengtsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Christofer Bergenblock",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sten Bergheden",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Emma Berginger",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jörgen Berglund",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mats Berglund",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Berntsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Aida Birinxhiku",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sara-Lena Bjälkö",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Patrik Björck",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Malin Björk",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Peder Björk",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Heléne Björklund",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Unni Björnerfors",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Yasmine Bladelius",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Carita Boulwén",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Helena Bouveng",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Camilla Brodin",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Gruppledare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Bo Broman",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gudrun Brunegård",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Camilla Brunsberg",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johan Büser",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Personlig ersättare",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lena Bäckelin",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Bäckström Johansson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Crister Carlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gunilla Carlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ersättare",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rose-Marie Carlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Teresa Carvalho",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Jonny Cato",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Margareta Cederfelt",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Alexander Christiansson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Dzenan Cisija",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Nooshi Dadgostar",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mikael Dahlqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mikael Damberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Mikael Damsgaard",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Malin Danielsson",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lorena Delgado Varas",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Muharrem Demirok",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Catarina Deremar",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Adnan Dibrani",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Dennis Dioukarev",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ida Drougge",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ida Ekeroth Clausson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Hans Eklind",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Förste vice gruppledare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Louise Eklund",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Staffan Eklöf",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Hans Ekström",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Vice ordförande",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Jamal El-Haj",
+    "Gender": "man",
+    "Party": "-",
+    "Roles": ["Riksdagsledamot"],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Torsten Elofsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Aron Emilsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Tomas Eneroth",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Cecilia Engström",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Engsund",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Matheus Enholm",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Karin Enström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jan Ericson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Ordförande",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Eriksson Falk",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Personlig ersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sofie Eriksson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Yasmine Eriksson",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Åsa Eriksson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Matilda Ernkrans",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Mikael Eskilandersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Erik Ezelius",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rashid Farivar",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Runar Filper",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kenneth G Forslund",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Förste vice talman",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Joar Forssell",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kajsa Fredholm",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ann-Christine Frohm Utterstedt",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Isak From",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Marianne Fundahn",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ida Gabrielsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Helena Gellerman",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Nima Gholam Ali Pour",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rasmus Giertz",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sara Gille",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Samuel Gonzalez Westling",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mats Green",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jörgen Grubb",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Hanna Gunnarsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jytte Guteland",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gustaf Göthberg",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Tony Haddou",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Monica Haider",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lena Hallengren",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Ann-Charlotte Hammar Johnsson",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Robert Hannah",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Camilla Hansén",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Kvittningsperson",
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johanna Haraldsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Göran Hargestam",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna-Lena Hedberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Peter Hedberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Roger Hedlund",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ulrika Heie",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ulrika Heindorff",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Daniel Helldén",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Språkrör",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Erik Hellsborn",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Caroline Helmersson Olsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Annika Hirvonen",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johanna Hornberger",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Dan Hovskär",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johan Hultberg",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Peter Hultqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Vice ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Per-Arne Håkansson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Marie-Louise Hänel Sandström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Malin Höglund",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Isacsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Jacobsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Malcolm Momodou Jallow",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kjell Jansson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lena Johansson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Martina Johansson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Morgan Johansson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Lotta Johnsson Fornarve",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Johnsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Richard Jomshof",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anders W Jonsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Jonsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "David Josefsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ellen Juntti",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Joakim Järrebring",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Patrik Jönsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Markus Kallifatides",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Arin Karapet",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ida Karkiainen",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Patrik Karlson",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anders Karlsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Maj Karlsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Karlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Karlsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Niklas Karlsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Personlig suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Åsa Karlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Kadir Kasirga",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ingemar Kihlström",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Martin Kinnunen",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Personlig suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Julia Kronlid",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Andre vice talman",
+      "Suppleant",
+      "Andre vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Tomas Kronståhl",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kent Kumpula",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Fredrik Kärrholm",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Serkan Köse",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Vice ordförande",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Birger Lahti",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Linus Lakso",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Mejern Larsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Malin Larsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mikael Larsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Stina Larsson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna Lasses",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rebecka Le Moine",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Zara Leghissa",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Andreas Lennkvist Manriquez",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sanne Lennström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Joanna Lewerentz",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ann-Sofie Lifvenhage",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ulrika Liljeberg",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Amanda Lind",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Fredrik Lindahl",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Helena Lindahl",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kristoffer Lindberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Linda Lindberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Eva Lindh",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ulf Lindholm",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rasmus Ling",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Katarina Luhr",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Marléne Lund Kopparklint",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Angelica Lundberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Kerstin Lundgren",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Tredje vice talman",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot",
+      "Tredje vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Fredrik Lundh Sammeli",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Eleonore Lundkvist",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Patrik Lundqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "David Lång",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Petter Löberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Johan Löfstrand",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Adrian Magnusson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Fredrik Malm",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Josefin Malmqvist",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Manhammar",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Noria Manouchi",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Adam Marttinen",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Louise Meijer",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Personlig suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Martin Melin",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Isabell Mixter",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Thomas Morell",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Azra Muranovic",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Camilla Mårtensen",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Kvittningsperson",
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ola Möller",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Laila Naraghi",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Marie Nicholson",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Elin Nilsson",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jennie Nilsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ulrik Nilsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Emma Nohrén",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Carl Nordblom",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gudrun Nordborg",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Rickard Nordin",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lina Nordquist",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Charlotte Nordström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Susanne Nordström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Talmansersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Liza-Maria Norlin",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Partisekreterare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Katja Nyberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ingela Nylund Watz",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Emelie Nyman",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Leif Nysmed",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mona Olin",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Peter Ollén",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jakob Olofsgård",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Fredrik Olovsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Stefan Olsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Oscarsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mikael Oscarsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Erik Ottoson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Kjell-Arne Ottosson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Mattias Ottosson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Eric Palmqvist",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Amanda Palmstierna",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Daniel Persson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Persson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Helén Pettersson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ewa Pihl Krabbe",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Püss",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Charlotte Quensel",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Saila Quicklund",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Thomas Ragnarsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anette Rangdag",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johanna Rantsi",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lawen Redar",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Magnus Resare",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Patrick Reslow",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Adam Reuterskiöld",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Daniel Riazat",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Edward Riedl",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jan Riise",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Suppleant",
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Camilla Rinaldo Miller",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jacob Risberg",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jessica Rodén",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mauricio Rojas",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Azadeh Rojhan",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jessica Rosencrantz",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Oliver Rosengren",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Michael Rubbestad",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Karin Rågsjö",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mirja Räihä",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Cecilia Rönn",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Joakim Sandell",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Markus Selin",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ardalan Shekarabi",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Niklas Sigvardsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna af Sillén",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Inga-Lill Sjöblom",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anne-Li Sjölund",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Oscar Sjöstedt",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jesper Skalberg Karlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Linus Sköld",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Sofia Skönnbrink",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mona Smedman",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna Starbrink",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jessica Stegrud",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Robert Stenkvist",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Maria Stockhaus",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Helena Storckenfeldt",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Annika Strandhäll",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna-Belle Strömberg",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Carina Ståhl Herrstedt",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jimmy Ståhl",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Karin Sundin",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Gunilla Svantorp",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Johnny Svedin",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Håkan Svenneling",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jonathan Svensson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Oskar Svärd",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ilona Szatmári Waldau",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna-Caren Sätherberg",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Björn Söder",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Larry Söder",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Kvittningsperson"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Elin Söderberg",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Per Söderlund",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Mathias Tegnér",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Elisabeth Thand Ringqvist",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Olle Thorell",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Louise Thunström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Victoria Tiblom",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Björn Tidland",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Beatrice Timgren",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Katarina Tolgfors",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Vasiliki Tsouplaki",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Roland Utbult",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Linda W Snecker",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna Wallentheim",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Hans Wallmark",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ordförande",
+      "Ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Ciczie Weidby",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "John E Weinerhall",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Daniel Vencu Velasquez Castro",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Marcus Wennerström",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mattias Vepsä",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jennie Wernäng",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Hanna Westerén",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Vice ordförande",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Ulrika Westerlund",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Åsa Westlund",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Martin Westmont",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Eric Westroth",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jessica Wetterling",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Linnéa Wickman",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Elsa Widding",
+    "Gender": "kvinna",
+    "Party": "-",
+    "Roles": ["Riksdagsledamot"],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "John Widegren",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Björn Wiechel",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Markus Wiechel",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Mats Wiking",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anna Vikström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Helena Vilhelmsson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Henrik Vinge",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Lars Wistedt",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true
+  },
+  {
+    "Name": "Mariya Voyvodova",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Viktor Wärnick",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Alexandra Völker",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anders Ygeman",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Leonid Yurkovskiy",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Boriana Åberg",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Anders Ådahl",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Martin Ådahl",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Jimmie Åkesson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Carina Ödebrink",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false
+  },
+  {
+    "Name": "Paula Örn",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false
+  }
+]
