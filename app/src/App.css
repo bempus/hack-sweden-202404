@@ -19,10 +19,13 @@ ul, li {
 }
 
 .statistics {
-  padding: 0.7rem;
   display: grid;
   gap: .33rem;
   
+}
+
+.statistics > li {
+  padding: 0.33rem;
 }
 .meta {
   display: flex;
