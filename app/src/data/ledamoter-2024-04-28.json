@@ -1,0 +1,5664 @@
+[
+  {
+    "Name": "Fredrik Ahlstedt",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Emma Ahlström Köster",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Alireza Akhondi",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Anders Alftberg",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Leila Ali Elmi",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Janine Alm Ericson",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Ann-Sofie Alm",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Sofia Amloh",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Pontus Andersson Garpvall",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Andrea Andersson Tay",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Johan Andersson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Jonas Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Lars Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Magdalena Andersson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Förste vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Tobias Andersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Lili André",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Alexandra Anstrell",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Clara Aranda",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Mats Arkhem",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Ludvig Aspling",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Nadja Awad",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Gulan Avci",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Kristina Axén Olin",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Yusuf Aydin",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Sanna Backeskog",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Lars Beckman",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Denis Begic",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Mathias Bengtsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Christofer Bergenblock",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Sten Bergheden",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Emma Berginger",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Jörgen Berglund",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Mats Berglund",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Magnus Berntsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Aida Birinxhiku",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Sara-Lena Bjälkö",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Patrik Björck",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Malin Björk",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Peder Björk",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Heléne Björklund",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Blekinge län"
+  },
+  {
+    "Name": "Unni Björnerfors",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Yasmine Bladelius",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Carita Boulwén",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Helena Bouveng",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Camilla Brodin",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Gruppledare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Bo Broman",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Gudrun Brunegård",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Camilla Brunsberg",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Blekinge län"
+  },
+  {
+    "Name": "Johan Büser",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Personlig ersättare",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Lena Bäckelin",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jämtlands län"
+  },
+  {
+    "Name": "Mattias Bäckström Johansson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Crister Carlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Gunilla Carlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ersättare",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Rose-Marie Carlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Teresa Carvalho",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Jonny Cato",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Margareta Cederfelt",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Alexander Christiansson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Dzenan Cisija",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Nooshi Dadgostar",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Mikael Dahlqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Mikael Damberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Mikael Damsgaard",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Malin Danielsson",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Lorena Delgado Varas",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Muharrem Demirok",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Catarina Deremar",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Adnan Dibrani",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Dennis Dioukarev",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Ida Drougge",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Ida Ekeroth Clausson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Hans Eklind",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Förste vice gruppledare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Louise Eklund",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Staffan Eklöf",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Hans Ekström",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Vice ordförande",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Jamal El-Haj",
+    "Gender": "man",
+    "Party": "-",
+    "Roles": "Riksdagsledamot",
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Torsten Elofsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Aron Emilsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Tomas Eneroth",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Cecilia Engström",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Lars Engsund",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Matheus Enholm",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Karin Enström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Jan Ericson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Ordförande",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Mattias Eriksson Falk",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Personlig ersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Sofie Eriksson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Yasmine Eriksson",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Åsa Eriksson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Matilda Ernkrans",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Mikael Eskilandersson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Erik Ezelius",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Rashid Farivar",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Runar Filper",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Kenneth G Forslund",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Förste vice talman",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Joar Forssell",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Kajsa Fredholm",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Ann-Christine Frohm Utterstedt",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Blekinge län"
+  },
+  {
+    "Name": "Isak From",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Marianne Fundahn",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Ida Gabrielsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Helena Gellerman",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Nima Gholam Ali Pour",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Rasmus Giertz",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Sara Gille",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Samuel Gonzalez Westling",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Mats Green",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Jörgen Grubb",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Hanna Gunnarsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Jytte Guteland",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Gustaf Göthberg",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Tony Haddou",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Monica Haider",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Lena Hallengren",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Ann-Charlotte Hammar Johnsson",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Robert Hannah",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Camilla Hansén",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Kvittningsperson",
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Johanna Haraldsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Göran Hargestam",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Anna-Lena Hedberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Peter Hedberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Roger Hedlund",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Ulrika Heie",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Ulrika Heindorff",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Daniel Helldén",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Språkrör",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Erik Hellsborn",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Caroline Helmersson Olsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Annika Hirvonen",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Johanna Hornberger",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Dan Hovskär",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Johan Hultberg",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Peter Hultqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Vice ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Per-Arne Håkansson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Marie-Louise Hänel Sandström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Malin Höglund",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Lars Isacsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Magnus Jacobsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Malcolm Momodou Jallow",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Kjell Jansson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Lena Johansson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Martina Johansson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Morgan Johansson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Lotta Johnsson Fornarve",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Lars Johnsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Richard Jomshof",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Blekinge län"
+  },
+  {
+    "Name": "Anders W Jonsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Mattias Jonsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "David Josefsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Ellen Juntti",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Joakim Järrebring",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Patrik Jönsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Markus Kallifatides",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Arin Karapet",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Ida Karkiainen",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Patrik Karlson",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Anders Karlsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Maj Karlsson",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Mattias Karlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Mattias Karlsson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Niklas Karlsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Personlig suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Åsa Karlsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Kadir Kasirga",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Ingemar Kihlström",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Martin Kinnunen",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Personlig suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Julia Kronlid",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Andre vice talman",
+      "Suppleant",
+      "Andre vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Tomas Kronståhl",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Kent Kumpula",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Fredrik Kärrholm",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Serkan Köse",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Vice ordförande",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Birger Lahti",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Linus Lakso",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Lars Mejern Larsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Malin Larsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Mikael Larsson",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Stina Larsson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Anna Lasses",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Rebecka Le Moine",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Zara Leghissa",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Andreas Lennkvist Manriquez",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Sanne Lennström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Joanna Lewerentz",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Ann-Sofie Lifvenhage",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Ulrika Liljeberg",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Dalarnas län"
+  },
+  {
+    "Name": "Amanda Lind",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Fredrik Lindahl",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Helena Lindahl",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Kristoffer Lindberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Linda Lindberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Eva Lindh",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Ulf Lindholm",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Rasmus Ling",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Katarina Luhr",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Marléne Lund Kopparklint",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Angelica Lundberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Kerstin Lundgren",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Tredje vice talman",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot",
+      "Tredje vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Fredrik Lundh Sammeli",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Eleonore Lundkvist",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Patrik Lundqvist",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "David Lång",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Petter Löberg",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Johan Löfstrand",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Adrian Magnusson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Fredrik Malm",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Josefin Malmqvist",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Magnus Manhammar",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Blekinge län"
+  },
+  {
+    "Name": "Noria Manouchi",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Andre vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Adam Marttinen",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Louise Meijer",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Personlig suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Martin Melin",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Isabell Mixter",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Thomas Morell",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Azra Muranovic",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Camilla Mårtensen",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Kvittningsperson",
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Ola Möller",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Laila Naraghi",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Marie Nicholson",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Elin Nilsson",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Jennie Nilsson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Ulrik Nilsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Emma Nohrén",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Carl Nordblom",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Gudrun Nordborg",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Rickard Nordin",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Lina Nordquist",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Charlotte Nordström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns östra"
+  },
+  {
+    "Name": "Susanne Nordström",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Talmansersättare",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Liza-Maria Norlin",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Partisekreterare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Katja Nyberg",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Ingela Nylund Watz",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Emelie Nyman",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Leif Nysmed",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Mona Olin",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kalmar län"
+  },
+  {
+    "Name": "Peter Ollén",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Jakob Olofsgård",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Partisekreterare",
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Fredrik Olovsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Stefan Olsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Magnus Oscarsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Mikael Oscarsson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Erik Ottoson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Kjell-Arne Ottosson",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Mattias Ottosson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Eric Palmqvist",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Amanda Palmstierna",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Daniel Persson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Magnus Persson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Helén Pettersson",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Ewa Pihl Krabbe",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Lars Püss",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Charlotte Quensel",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Saila Quicklund",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jämtlands län"
+  },
+  {
+    "Name": "Thomas Ragnarsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Anette Rangdag",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jämtlands län"
+  },
+  {
+    "Name": "Johanna Rantsi",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Lawen Redar",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Magnus Resare",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Patrick Reslow",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Adam Reuterskiöld",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Daniel Riazat",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Edward Riedl",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Jan Riise",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Suppleant",
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Camilla Rinaldo Miller",
+    "Gender": "kvinna",
+    "Party": "KD",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Jacob Risberg",
+    "Gender": "man",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Jessica Rodén",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns södra"
+  },
+  {
+    "Name": "Mauricio Rojas",
+    "Gender": "man",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Azadeh Rojhan",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Jessica Rosencrantz",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Oliver Rosengren",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Kronobergs län"
+  },
+  {
+    "Name": "Michael Rubbestad",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Karin Rågsjö",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Mirja Räihä",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Cecilia Rönn",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Joakim Sandell",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Malmö kommun"
+  },
+  {
+    "Name": "Markus Selin",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Ardalan Shekarabi",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Niklas Sigvardsson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Anna af Sillén",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Södermanlands län"
+  },
+  {
+    "Name": "Inga-Lill Sjöblom",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Anne-Li Sjölund",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Oscar Sjöstedt",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Jesper Skalberg Karlsson",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gotlands län"
+  },
+  {
+    "Name": "Linus Sköld",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Sofia Skönnbrink",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Mona Smedman",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Ersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Anna Starbrink",
+    "Gender": "kvinna",
+    "Party": "L",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Jessica Stegrud",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": true,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Robert Stenkvist",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Maria Stockhaus",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Helena Storckenfeldt",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Annika Strandhäll",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Anna-Belle Strömberg",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västernorrlands län"
+  },
+  {
+    "Name": "Carina Ståhl Herrstedt",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Kvittningsperson",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ersättare"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns västra"
+  },
+  {
+    "Name": "Jimmy Ståhl",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Karin Sundin",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Gunilla Svantorp",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Johnny Svedin",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Norrbottens län"
+  },
+  {
+    "Name": "Håkan Svenneling",
+    "Gender": "man",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Värmlands län"
+  },
+  {
+    "Name": "Jonathan Svensson",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Oskar Svärd",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Ilona Szatmári Waldau",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Suppleant",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Anna-Caren Sätherberg",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jämtlands län"
+  },
+  {
+    "Name": "Björn Söder",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Larry Söder",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Kvittningsperson"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Hallands län"
+  },
+  {
+    "Name": "Elin Söderberg",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Per Söderlund",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Mathias Tegnér",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Elisabeth Thand Ringqvist",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Olle Thorell",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Louise Thunström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Victoria Tiblom",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Björn Tidland",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Beatrice Timgren",
+    "Gender": "kvinna",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Katarina Tolgfors",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Vasiliki Tsouplaki",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Förste vice gruppledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västmanlands län"
+  },
+  {
+    "Name": "Roland Utbult",
+    "Gender": "man",
+    "Party": "KD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Linda W Snecker",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Anna Wallentheim",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Hans Wallmark",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Ordförande",
+      "Ordförande",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns norra och östra"
+  },
+  {
+    "Name": "Ciczie Weidby",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "John E Weinerhall",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Daniel Vencu Velasquez Castro",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Marcus Wennerström",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Mattias Vepsä",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Jennie Wernäng",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Statsrådsersättare",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Hanna Westerén",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Vice ordförande",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Gotlands län"
+  },
+  {
+    "Name": "Ulrika Westerlund",
+    "Gender": "kvinna",
+    "Party": "MP",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Åsa Westlund",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Martin Westmont",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Eric Westroth",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Jessica Wetterling",
+    "Gender": "kvinna",
+    "Party": "V",
+    "Roles": [
+      "Ledamot",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Linnéa Wickman",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Elsa Widding",
+    "Gender": "kvinna",
+    "Party": "-",
+    "Roles": "Riksdagsledamot",
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "John Widegren",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Personlig suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Östergötlands län"
+  },
+  {
+    "Name": "Björn Wiechel",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västerbottens län"
+  },
+  {
+    "Name": "Markus Wiechel",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ordförande",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": true,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Mats Wiking",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns norra"
+  },
+  {
+    "Name": "Anna Vikström",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Helena Vilhelmsson",
+    "Gender": "kvinna",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Örebro län"
+  },
+  {
+    "Name": "Henrik Vinge",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Lars Wistedt",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Vice ordförande",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": true,
+    "ElectionArea": "Uppsala län"
+  },
+  {
+    "Name": "Mariya Voyvodova",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Göteborgs kommun"
+  },
+  {
+    "Name": "Viktor Wärnick",
+    "Gender": "man",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Gävleborgs län"
+  },
+  {
+    "Name": "Alexandra Völker",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Anders Ygeman",
+    "Gender": "man",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Leonid Yurkovskiy",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Riksdagsledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms län"
+  },
+  {
+    "Name": "Boriana Åberg",
+    "Gender": "kvinna",
+    "Party": "M",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Skåne läns södra"
+  },
+  {
+    "Name": "Anders Ådahl",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Suppleant",
+      "Suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  },
+  {
+    "Name": "Martin Ådahl",
+    "Gender": "man",
+    "Party": "C",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Stockholms kommun"
+  },
+  {
+    "Name": "Jimmie Åkesson",
+    "Gender": "man",
+    "Party": "SD",
+    "Roles": [
+      "Partiledare",
+      "Riksdagsledamot",
+      "Ledamot",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Carina Ödebrink",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Riksdagsledamot",
+      "Ledamot",
+      "Suppleant",
+      "Ledamot"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": true,
+    "ISViceOrförande": false,
+    "ElectionArea": "Jönköpings län"
+  },
+  {
+    "Name": "Paula Örn",
+    "Gender": "kvinna",
+    "Party": "S",
+    "Roles": [
+      "Ersättare",
+      "Extra suppleant"
+    ],
+    "IsParlamentMember": false,
+    "IsOrdförande": false,
+    "IsGovernmentMember": false,
+    "ISViceOrförande": false,
+    "ElectionArea": "Västra Götalands läns västra"
+  }
+]

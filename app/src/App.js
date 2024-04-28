@@ -1,4 +1,4 @@
-import data from './data/ledamoter-2024-04-27.json'
+import data from './data/ledamoter-2024-04-28.json'
 import arvoden from './data/arvoden.json'
 import './App.css';
 import { useEffect, useState } from 'react';
@@ -7,7 +7,8 @@ function App() {
   const [ledamoter, setLedamoter] = useState(data)
   const [filteringOn, setFilteringOn] = useState({
     Role: 'None',
-    Party: 'None'
+    Party: 'None',
+    ElectionArea: 'None'
   })
   const [avgArvode, setAvgArvode] = useState(0)
   const [totalArvode, setTotalArvode] = useState(0)
@@ -32,7 +33,9 @@ function App() {
     const filtered = data.filter(d => {
       const none = 'None'
       if (filteringOn.Party !== none && d.Party !== filteringOn.Party) return false
+      if (filteringOn.ElectionArea !== none && d.ElectionArea !== filteringOn.ElectionArea) return false
       if (filteringOn.Role !== none && !d.Roles.includes(filteringOn.Role)) return false
+
       return true
     })
 
@@ -46,17 +49,22 @@ function App() {
   const filterLedamoterByParty = (Party) => {
     setFilteringOn((old) => ({ ...old, Party }))
   }
+  const filterLedamoterByElectionArea = (ElectionArea) => {
+    setFilteringOn((old) => ({ ...old, ElectionArea }))
+  }
 
   const roles = new Set()
   const parties = new Set()
+  const electionAreas = new Set()
   data.forEach(d => {
     Array.from(d.Roles).forEach(r => roles.add(r))
     parties.add(d.Party)
+    electionAreas.add(d.ElectionArea)
   })
 
 
 
-  const list = ledamoter.map(({ Name, Party, Gender, Roles, IsGovernmentMember, ISViceOrförande, IsOrdförande, IsParlamentMember }) => {
+  const list = ledamoter.map(({ Name, Party, Gender, Roles, IsGovernmentMember, ElectionArea, ISViceOrförande, IsOrdförande, IsParlamentMember }) => {
     const arvode = calcArvode({ ISViceOrförande, IsOrdförande, IsParlamentMember })
     const uniqueRoles = new Set()
     return (<li>
@@ -67,6 +75,7 @@ function App() {
           <div>{Gender}</div>
         </div>
         <div className="info-right">
+          <div>Election area: <span className='clickable' onClick={() => filterLedamoterByElectionArea(ElectionArea)}>{ElectionArea}</span></div>
           <div>Party: <span className='clickable' onClick={()=>filterLedamoterByParty(Party)}>{Party}</span></div>
           <div className="arvode">
             SEK {arvode.toLocaleString('sv')}
@@ -104,6 +113,15 @@ function App() {
               <option value="None">None</option>
               {
                 Array.from(parties).map(p => <option value={p}>{p}</option>)
+              }
+            </select>
+          </div>
+          <div className='input-container'>
+            <label>Election area</label>
+            <select value={filteringOn.ElectionArea} onChange={(e) => filterLedamoterByElectionArea(e.target.value)}>
+              <option value="None">None</option>
+              {
+                Array.from(electionAreas).map(p => <option value={p}>{p}</option>)
               }
             </select>
           </div>
